@@ -9,11 +9,11 @@ package hashMap
 //		扩容因子为0.75,当存储数超过0.75倍总容量时应当扩容
 //		使用互斥锁实现并发控制
 import (
-	"github.com/hlccd/goSTL/algorithm"
-	"github.com/hlccd/goSTL/data_structure/avlTree"
-	"github.com/hlccd/goSTL/data_structure/vector"
-	"github.com/hlccd/goSTL/utils/comparator"
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/algorithm"
+	"github.com/ooppwwqq0/goSTL/data_structure/avlTree"
+	"github.com/ooppwwqq0/goSTL/data_structure/vector"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"sync"
 )
 

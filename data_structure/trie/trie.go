@@ -10,7 +10,7 @@ package trie
 //		使用互斥锁实现并发控制
 
 import (
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"sync"
 )
 

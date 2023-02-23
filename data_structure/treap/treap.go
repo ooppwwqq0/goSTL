@@ -11,8 +11,8 @@ package treap
 //		配合比较器实现元素之间的大小比较
 
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"math/rand"
 	"sync"
 	"time"

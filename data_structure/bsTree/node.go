@@ -6,7 +6,7 @@ package bsTree
 //		可通过节点实现二叉搜索树的添加删除
 //		也可通过节点返回整个二叉搜索树的所有元素
 
-import "github.com/hlccd/goSTL/utils/comparator"
+import "github.com/ooppwwqq0/goSTL/utils/comparator"
 
 //node树节点结构体
 //该节点是二叉搜索树的树节点

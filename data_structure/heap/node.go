@@ -6,7 +6,7 @@ package heap
 //		可通过节点实现完全二叉树的节点上升与下沉
 //		也可查找待插入的最后一个节点的父节点,即该待插入节点将放入该父节点的左右子节点中
 
-import "github.com/hlccd/goSTL/utils/comparator"
+import "github.com/ooppwwqq0/goSTL/utils/comparator"
 
 //node树节点结构体
 //该节点是完全二叉树的树节点

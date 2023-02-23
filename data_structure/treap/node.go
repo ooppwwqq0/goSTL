@@ -6,7 +6,7 @@ package treap
 //		可通过节点实现树堆的添加删除
 //		也可通过节点返回整个二叉搜索树的所有元素
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
 	"math/rand"
 )
 

@@ -11,8 +11,8 @@ package vector
 //		可通过配合比较器competitor和迭代器iterator对该vector容器进行排序查找或遍历
 
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"sync"
 )
 

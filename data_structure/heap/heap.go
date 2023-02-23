@@ -8,8 +8,8 @@ package heap
 //		该结构只保留整个树的根节点,其他节点通过根节点进行查找获得
 //		增加互斥锁实现并发控制
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"sync"
 )
 

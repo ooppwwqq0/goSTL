@@ -7,7 +7,7 @@ package avlTree
 //		也可通过节点返回整个平衡二叉树的所有元素
 //		增减节点后通过左右旋转的方式保持平衡二叉树的平衡
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
 )
 
 //node树节点结构体

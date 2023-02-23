@@ -10,7 +10,7 @@ package priority_queue
 //		可接纳不同类型的元素,但为了便于比较,建议使用同一个类型
 //		使用互斥锁实现并发控制,以保证在高并发情况下的数据一致性
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
 	"sync"
 )
 

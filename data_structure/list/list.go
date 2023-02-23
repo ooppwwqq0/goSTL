@@ -10,8 +10,8 @@ package list
 //		通过并发控制锁保证了在高并发过程中的数据一致性
 
 import (
-	"github.com/hlccd/goSTL/utils/comparator"
-	"github.com/hlccd/goSTL/utils/iterator"
+	"github.com/ooppwwqq0/goSTL/utils/comparator"
+	"github.com/ooppwwqq0/goSTL/utils/iterator"
 	"sync"
 )
 
